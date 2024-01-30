@@ -10,7 +10,9 @@ En la cara inferior del cubo, internamente, una placa de circuito impreso (PCB) 
 
 IDEA ORIGINAL: Inspiración y Adaptación
 
-La concepción del proyecto "LED-CUBE KAI" se basa en la admirable obra de [Nombre del creador original] y su proyecto [Nombre del Proyecto Original]. Hemos tomado inspiración de sus innovadoras ideas, diseño y enfoque para crear nuestro propio cubo de LEDs.
+La concepción del proyecto "LED-CUBE KAI" se basa en la admirable obra de Moekoe y su proyecto "500 LED-Pixel RGB-Brick". Hemos tomado inspiración de sus innovadoras ideas, diseño y enfoque para crear nuestro propio cubo de LEDs.
+
+https://www.instructables.com/500-LED-Pixel-RGB-Brick/
 
 
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/2b86d054-cdec-4552-8639-533a5f465c9f)
