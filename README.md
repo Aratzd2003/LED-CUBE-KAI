@@ -1,16 +1,16 @@
 # LED-CUBE-KAI
 
-DESCRIPCION DEL PROYECTO
+PROIEKTUAREN DESKRIBAPENA
 
-El proyecto "LED-CUBE KAI" es un cubo tridimensional de LEDs que combina creatividad, ingeniería y programación para crear una fascinante exhibición visual. Construido sobre una base de madera en forma de cubo, el dispositivo utiliza tiras de LEDs dispuestas estratégicamente para formar dos matrizes de luces. Con un total de 500 LEDs organizados en diez tiras horizontales de 40 LEDs en las caras laterales del cubo y diez tiras de 10 LEDs en la cara superior, el cubo ofrece una amplia gama de posibilidades para generar patrones y efectos luminosos.
+"LED-CUBE KAI" proiektua LEDen hiru dimentsioko kuboa da, sormena, ingeniaritza eta programazioa konbinatzen dituena, ikusizko erakustaldi liluragarri bat sortzeko. Kubo formako egurrezko oinarri baten gainean eraikia, gailuak estrategikoki jarritako LED zerrendak erabiltzen ditu argien bi matrize osatzeko. Kuboaren alboetan 40 LEDeko hamar zerrenda horizontaletan eta goiko aldean 10 LEDeko hamar zerrendatan antolatuta, kuboak patroiak eta argi-efektuak sortzeko aukera zabala eskaintzen du.
 
-Dos fuentes de alimentación de 5V y 30A garantizan un suministro eléctrico robusto, distribuyendo la energía de manera eficiente entre las matrices de LEDs, el microcontrolador Teensy y el módulo Bluetooth. Además, para mejorar la visibilidad y distinguir claramente cada LED, se han incorporado celdas separadoras de luz y un revestimiento de acrílico opaco. Este revestimiento permite que la luz emane de forma vibrante sin revelar la estructura interna del cubo, creando un efecto visual cautivador.
+5V-ko eta 30Ako bi elikadura-iturrik hornidura elektriko sendoa bermatzen dute, energia modu eraginkorrean banatuz LED matrizeen, Teensy mikrokontrolagailuaren eta Bluetooth moduluaren artean. Gainera, ikuspena hobetzeko eta LED bakoitza argi eta garbi bereizteko, argia bereizteko gelaxkak eta akriliko opakuzko estaldura gehitu dira. Estaldura horri esker, argia dardarka sortzen da, kuboaren barne-egitura agerian utzi gabe, eta ikusizko efektu liluragarria sortzen da.
 
-En la cara inferior del cubo, internamente, una placa de circuito impreso (PCB) aloja el Teensy, el módulo Bluetooth y las conexiones eléctricas, proporcionando una plataforma organizada y compacta para la electrónica central del proyecto. La documentación detallada en este repositorio facilita la replicación del "LED-CUBE KAI", permitiendo a entusiastas y aficionados adentrarse en la creación de su propio cubo de LEDs tridimensional.
+Kuboaren beheko aldean, barnean, zirkuitu inprimatuko plaka batek (PCB) Teensy, Bluetooth modulua eta konexio elektrikoak gordetzen ditu, proiektuaren elektronika zentralerako plataforma antolatu eta trinkoa eskainiz. Gordailu honetan zehaztutako dokumentazioak "LED-CUBE KAI" ren erreplikazioa errazten du, zale sutsu eta zaleei beren hiru dimentsioko LED kuboaren sorreran murgiltzeko aukera emanez.
 
-IDEA ORIGINAL: Inspiración y Adaptación
+JATORRIZKO IDEIA: Inspirazioa eta Egokitzapena
 
-La concepción del proyecto "LED-CUBE KAI" se basa en la admirable obra de Moekoe y su proyecto "500 LED-Pixel RGB-Brick". Hemos tomado inspiración de sus innovadoras ideas, diseño y enfoque para crear nuestro propio cubo de LEDs.
+"LED-CUBE KAI" proiektua Moekoeren lan miresgarrian eta "500 LED-Pixel RGB-Brick" proiektuan oinarritzen da. Bere ideia berritzaileen inspirazioa hartu dugu, diseinua eta ikuspegia gure LED kuboa sortzeko.
 
 https://www.instructables.com/500-LED-Pixel-RGB-Brick/
 
@@ -18,29 +18,32 @@ https://www.instructables.com/500-LED-Pixel-RGB-Brick/
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/2b86d054-cdec-4552-8639-533a5f465c9f)
 
 
-Inspiración del Proyecto Original:
+Jatorrizko proiektuaren inspirazioa:
 
-Diseño del Cubo: 
-Adoptamos la estructura tridimensional del cubo, con tiras de LEDs dispuestas en múltiples capas, tal como se presentaba en el proyecto original. La disposición de 10 tiras horizontales de 40 LEDs en las caras laterales y 10 tiras de 10 LEDs en la cara superior fue una característica clave que conservamos.
+Kuboaren diseinua:
+Kuboaren hiru dimentsioko egitura hartu genuen, hainbat geruzatan banatutako LEDen zerrendekin, jatorrizko proiektuan agertzen zen bezala. Alboetan 40 LEDeko 10 zerrenda horizontal eta goiko aldean 10 LEDeko 10 zerrenda jartzea funtsezko ezaugarria izan zen.
 
-Distribución de LEDs: 
-Seguimos la distribución y separación específicas de los LEDs según las indicaciones proporcionadas en el proyecto original. Esta decisión aseguró una iluminación uniforme y una apariencia visualmente atractiva.
+LEDen banaketa:
+LEDen banaketa eta bereizketa espezifikoari jarraitzen diogu, jatorrizko proiektuan emandako jarraibideen arabera. Erabaki horrek argi uniformea eta itxura bisualki erakargarria bermatu zituen.
 
-Estructura de la Base y PCB: Nos inspiramos en la elección de utilizar una base de madera para la estructura del cubo.
+Oinarriaren egitura eta PCB: Kuboaren egiturarako egurrezko oinarri bat erabiltzeko aukeran oinarritzen gara.
 
-Adaptación y Mejoras:
+Egokitzapena eta hobekuntzak:
 
-Dimensiones Personalizadas:
-Aunque nos basamos en las medidas proporcionadas por el creador original, hemos realizado ajustes en las dimensiones del cubo para adaptarnos a nuestras preferencias estéticas y a los materiales disponibles, por ejemplo tuvimos que hacer unos ajustes en las dimensiones de las aristas.
+Dimentsio pertsonalizatuak:
+Jatorrizko sortzaileak emandako neurrietan oinarritzen bagara ere, kuboaren dimentsioetan doikuntzak egin ditugu gure lehentasun estetikoetara eta eskuragarri ditugun materialetara egokitzeko; adibidez, ertzen dimentsioetan doikuntzak egin behar izan genituen.
 
 
 ![20240111_124037](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/2911d6ae-e0c4-486e-bb4a-7161eaff6cef)
 
 
 
-Incorporación de Nuevos Elementos: 
-Hemos añadido nuevas características, como la distribuicion de los componentes del interior de cubo o la base de madera del cubo, que ahora nos deja ver nuestro logo dibujado en la placa del interior del cubo.
+Elementu berriak sartzea:
+Ezaugarri berriak gehitu ditugu, hala nola kuboaren barruko osagaien banaketa edo kuboaren egurrezko oinarria, orain kuboaren barruko plakan marraztutako gure logoa ikusten uzten diguna.
 
+
+
+Inspirazio-iturria ezagutzean eta jatorrizko sortzaileari eskerrak ematean, haren lana aitortzeaz gain, LEDen eta proiektu elektronikoen zale sutsuen komunitatearen barruan ezagutzak trukatzen laguntzea ere bilatzen dugu. Jatorrizko proiektuaren ikuspegi, egokitzapen eta hedapen berri hori "LED-CUBE KAI" delakoan islatzen da, eta orain beste sortzaile eta zale batzuk inspiratzea espero da, LEDen kuboak eraikitzeko esperientzia pertsonalizatuan murgiltzeko.
 
 
 
