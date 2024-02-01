@@ -47,6 +47,7 @@ Inspirazio-iturria ezagutzean eta jatorrizko sortzaileari eskerrak ematean, hare
 
 
 
+ERANTZUTEKO JARRAIBIDEAK
 
-
+Ezer baino lehen, proiektua egiteko materialak beharko ditugu. "Materialen zerrenda" izeneko karpetan erantsi dizkizuegu. Material batzuen zehaztapen zehatzak, berriz, argazkiak emango dizkizuegu montagean (adibidez, ertzak).
 
