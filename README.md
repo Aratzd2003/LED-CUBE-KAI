@@ -46,8 +46,8 @@ Ezaugarri berriak gehitu ditugu, hala nola kuboaren barruko osagaien banaketa ed
 Inspirazio-iturria ezagutzean eta jatorrizko sortzaileari eskerrak ematean, haren lana aitortzeaz gain, LEDen eta proiektu elektronikoen zale sutsuen komunitatearen barruan ezagutzak trukatzen laguntzea ere bilatzen dugu. Jatorrizko proiektuaren ikuspegi, egokitzapen eta hedapen berri hori "LED-CUBE KAI" delakoan islatzen da, eta orain beste sortzaile eta zale batzuk inspiratzea espero da, LEDen kuboak eraikitzeko esperientzia pertsonalizatuan murgiltzeko.
 
 
-
-ERANTZUTEKO JARRAIBIDEAK
+MUNTATZEKO JARRAITU BEHARREKO PAUSOAK
 
 Ezer baino lehen, proiektua egiteko materialak beharko ditugu. "Materialen zerrenda" izeneko karpetan erantsi dizkizuegu. Material batzuen zehaztapen zehatzak, berriz, argazkiak emango dizkizuegu montagean (adibidez, ertzak).
 
+Lo primero que hicimos fue crear el cubo interior de madera, 
