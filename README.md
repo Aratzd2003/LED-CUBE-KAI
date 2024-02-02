@@ -39,7 +39,7 @@ Jatorrizko sortzaileak emandako neurrietan oinarritzen bagara ere, kuboaren dime
 
 
 Elementu berriak sartzea:
-Ezaugarri berriak gehitu ditugu, hala nola kuboaren barruko osagaien banaketa edo kuboaren egurrezko oinarria, orain kuboaren barruko plakan marraztutako gure logoa ikusten uzten diguna.
+Ezaugarri berriak gehitu ditugu, hala nola kuboaren barruko osagaien banaketa edo kuboaren egurrezko oinarria, orain kuboaren plakan marraztutako gure logoa ikusten uzten diguna.
 
 
 
