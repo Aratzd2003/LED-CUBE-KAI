@@ -93,7 +93,16 @@ MUNTATZEKO JARRAITU BEHARREKO PAUSOAK
 
 Ezer baino lehen, proiektua egiteko materialak beharko ditugu. "Materialen zerrenda" izeneko karpetan erantsi dizkizuegu. Material batzuen zehaztapen zehatzak, berriz, argazkiak emango dizkizuegu montagean (adibidez, ertzak).
 
-En primer lugar vamos a construir la caja de madera y la rejilla de LED. Las dimensiones del cubo están especificadas por la distancia del píxel en la tira de LED. En este caso los píxeles tienen una distancia de 3,4cm, por lo que el cubo tiene que medir 34 x 34 x 34cm. Ahorrarás mucho tiempo usando estas dimensiones, porque no necesitarás cortar la tira después de cada píxel y volver a unirla con un pequeño cable.
+En primer lugar vamos a construir la caja de madera y la rejilla de LED. Las dimensiones del cubo están especificadas por la distancia del píxel en la tira de LED (10 pixeles de ancho en cada cara. En este caso los píxeles tienen una distancia de 3,4cm, por lo que el cubo tiene que medir 34 x 34 x 34cm. Ahorrarás mucho tiempo usando estas dimensiones, porque no necesitarás cortar la tira después de cada píxel y volver a unirla con un pequeño cable.
+
+Todo viene junto con un poco de pegamento para madera. Tienes que trabajar correctamente porque la caja de acrílico encaja perfectamente en la parte superior de la caja de madera. Se vuelve mucho más fácil con algunos voluntarios a tu alrededor, o simplemente usa un tensor de marco como hicimos nosotros. Con pegamento de madera pegaremos las aristas que hacen la esquina del cubo, es bastante complicado conseguir 45 grados asique hay que estar atento y tener varias manos para poder poner bien las esquinas.
+
+Para hacer las aristas necesitaremos las piezas con las medidas adecuadas, en nuestro caso no hemos utilizado las mismas medidas que la del proyecto que hemos utilizado como referencia asique dejamos un archivo adjunto con las piezas que hemos utilizado para la cortar con la maquina de laser y las medidas.***************************************
+
+Cuando toda la cola esta seca y se hayan montado aparte las aristas vamos a colocar las leds en el cubo con mucho cuidado para que queden en la mitad teniendo en cuenta los cuadrados de las aristas para que quede en medio como en esta esta foto![Uploading IMG20240205120410.jpg…]()
+
+
+Una vez que hayas terminado,  Es un poco difícil, sobre todo porque deben tener un ángulo de casi 45 grados. Antes de poder unir la rejilla al cubo, debes agregar las tiras de LED.
 
 
 pieza horizontal:
