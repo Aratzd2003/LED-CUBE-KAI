@@ -99,7 +99,8 @@ Todo viene junto con un poco de pegamento para madera. Tienes que trabajar corre
 
 Para hacer las aristas necesitaremos las piezas con las medidas adecuadas, en nuestro caso no hemos utilizado las mismas medidas que la del proyecto que hemos utilizado como referencia asique dejamos un archivo adjunto con las piezas que hemos utilizado para la cortar con la maquina de laser y las medidas.***************************************
 
-Cuando toda la cola esta seca y se hayan montado aparte las aristas vamos a colocar las leds en el cubo con mucho cuidado para que queden en la mitad teniendo en cuenta los cuadrados de las aristas para que quede en medio como en esta esta foto![Uploading IMG20240205120410.jpg…]()
+Cuando toda la cola esta seca y se hayan montado aparte las aristas vamos a colocar las leds en el cubo con mucho cuidado para que queden en la mitad teniendo en cuenta los cuadrados de las aristas para que quede en medio como en esta esta foto
+![Uploading IMG20240205120410.jpg…]()
 
 
 Una vez que hayas terminado,  Es un poco difícil, sobre todo porque deben tener un ángulo de casi 45 grados. Antes de poder unir la rejilla al cubo, debes agregar las tiras de LED.
