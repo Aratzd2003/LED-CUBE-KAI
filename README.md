@@ -112,11 +112,6 @@ Esta seria la conexion con todo el tensy,bluetooth y las matrizes de leds![IMG_2
 
 
 
-
-
-Una vez que hayas terminado,  Es un poco difícil, sobre todo porque deben tener un ángulo de casi 45 grados. Antes de poder unir la rejilla al cubo, debes agregar las tiras de LED.
-
-
 pieza horizontal:
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/65ff9237-2937-4c65-8f60-021533c2471a)
 
