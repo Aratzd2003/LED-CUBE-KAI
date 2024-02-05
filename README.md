@@ -46,6 +46,29 @@ Ezaugarri berriak gehitu ditugu, hala nola kuboaren barruko osagaien banaketa ed
 Inspirazio-iturria ezagutzean eta jatorrizko sortzaileari eskerrak ematean, haren lana aitortzeaz gain, LEDen eta proiektu elektronikoen zale sutsuen komunitatearen barruan ezagutzak trukatzen laguntzea ere bilatzen dugu. Jatorrizko proiektuaren ikuspegi, egokitzapen eta hedapen berri hori "LED-CUBE KAI" delakoan islatzen da, eta orain beste sortzaile eta zale batzuk inspiratzea espero da, LEDen kuboak eraikitzeko esperientzia pertsonalizatuan murgiltzeko.
 
 
+
+
+
+Problema: Conexiones y Cortocircuitos
+
+Descripción: Antes de conectar los LEDs a la fuente de alimentación, es crucial verificar minuciosamente todas las conexiones y cables. La confusión en las conexiones puede resultar en cortocircuitos, dañando tanto los LEDs como la fuente de alimentación.
+Solución: Realiza una revisión exhaustiva de las conexiones antes de aplicar la alimentación. Asegúrate de que cada conexión sea precisa y que no haya posibilidad de cortocircuitos.
+Problema: Desajuste en Ángulos de las Piezas del Cubo
+
+Descripción: Los ángulos de las aristas y esquinas no cuadraban inicialmente. Se solucionó creando primero las piezas de los lados y luego calculando los ángulos de las aristas para garantizar un ajuste preciso al ensamblar el cubo.
+Solución: Al construir el cubo, inicia con las piezas de los lados y calcula los ángulos de las aristas para lograr una unión perfecta y evitar desajustes en las esquinas.
+Problema: Tira de LED No Funciona
+
+Descripción: Alguna tira de LED no se encendía inicialmente, lo que se atribuyó a un posible problema de conexión. La solución fue retirar las tiras de LED y verificar su funcionamiento utilizando un código básico fuera del circuito para asegurarse de que estuvieran adecuadamente alimentadas.
+Solución: Si una tira de LED no se ilumina, retírala y verifica su funcionamiento fuera del circuito. Asegúrate de que esté recibiendo la alimentación adecuada y corrige cualquier problema de conexión.
+Problema: Problemas en el Diseño de la PCB
+
+Descripción: Se han experimentado varios problemas al diseñar las placas debido a la falta de planificación en la distribución de elementos y conexiones.
+Solución: Antes de fabricar las placas, planifica cuidadosamente la distribución de elementos y conexiones. Asegúrate de tener un diseño claro y revisa todas las conexiones antes de la fabricación.
+Problema: Dificultad para Entender el Código con la Librería #fastled
+
+Descripción: Se ha encontrado dificultad en comprender el código al utilizar la librería #fastled. Después de buscar ayuda en internet y realizar varios intentos, se lograron diferentes efectos con los LEDs.
+Solución: Para comprender el código con la librería #fastled, busca ayuda en recursos en línea y realiza pruebas. En la carpeta de códigos, se han dejado pruebas y experimentos previos antes de la creación del código definitivo para referencia.
 MUNTATZEKO JARRAITU BEHARREKO PAUSOAK
 
 Ezer baino lehen, proiektua egiteko materialak beharko ditugu. "Materialen zerrenda" izeneko karpetan erantsi dizkizuegu. Material batzuen zehaztapen zehatzak, berriz, argazkiak emango dizkizuegu montagean (adibidez, ertzak).
