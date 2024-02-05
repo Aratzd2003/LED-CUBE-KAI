@@ -93,13 +93,26 @@ MUNTATZEKO JARRAITU BEHARREKO PAUSOAK
 
 Ezer baino lehen, proiektua egiteko materialak beharko ditugu. "Materialen zerrenda" izeneko karpetan erantsi dizkizuegu. Material batzuen zehaztapen zehatzak, berriz, argazkiak emango dizkizuegu montagean (adibidez, ertzak).
 
-Lo primero que hicimos fue crear el cubo interior de madera, 
+En primer lugar vamos a construir la caja de madera y la rejilla de LED. Las dimensiones del cubo están especificadas por la distancia del píxel en la tira de LED. En este caso los píxeles tienen una distancia de 3,4cm, por lo que el cubo tiene que medir 34 x 34 x 34cm. Ahorrarás mucho tiempo usando estas dimensiones, porque no necesitarás cortar la tira después de cada píxel y volver a unirla con un pequeño cable.
+
+
+pieza horizontal:
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/65ff9237-2937-4c65-8f60-021533c2471a)
+
+pieza vertical:
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/93e37657-535a-41ff-a46d-bf45ebd89b28)
+
+pieza lateral superior:
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/c3ea5b73-5b88-4f9e-b0b0-bc71ee9dc559)
+
+pieza lateral vertical:
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/2a73e797-f520-4360-a4bc-63341ca10b05)
 
 
 
 
 
-
+parte 6.
 ![Conexiones foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/726f8875-6ce2-4069-a34f-35c12b214ce1)
 ![PCB foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/729b291c-e4c7-4556-aa72-66a4fa98f4b0)
 
