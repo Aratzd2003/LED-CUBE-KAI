@@ -99,8 +99,19 @@ Todo viene junto con un poco de pegamento para madera. Tienes que trabajar corre
 
 Para hacer las aristas necesitaremos las piezas con las medidas adecuadas, en nuestro caso no hemos utilizado las mismas medidas que la del proyecto que hemos utilizado como referencia asique dejamos un archivo adjunto con las piezas que hemos utilizado para la cortar con la maquina de laser y las medidas.***************************************
 
-Cuando toda la cola esta seca y se hayan montado aparte las aristas vamos a colocar las leds en el cubo con mucho cuidado para que queden en la mitad teniendo en cuenta los cuadrados de las aristas para que quede en medio como en esta esta foto
-![Uploading IMG20240205120410.jpg…]()
+Cuando toda la cola esta seca y se hayan montado aparte las aristas vamos a colocar las leds en el cubo con mucho cuidado para que queden en la mitad teniendo en cuenta los cuadrados de las aristas para que quede en medio como en esta esta foto![IMG20240205120410](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/cc7cd842-7e0f-490a-b649-8122589fa1da)
+(la foto no es el resultado final hemos puesto las aristas para que se pueda ver como ejemplo)
+Para las tiras hace falta cortar 10 tiras de led de 40 pixeles para los lados y es importante tener cuidado con la colocacion de ellas ya que todas las flechas de las leds tienen que estar en el mismo sentido como en esta foto![IMG20240205121105](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/df096929-9a6f-4e73-abc8-791f336a49b8)
+
+A continuacion hemos colocado las fuentes de alimentacion en dos esquinas en diagonal para equilibrar el peso en el cubo, y despues de eso debemos hacer las conexiones a los leds(SIEMPRE EN PARALELO CON LAS FUENTES). Los cables de alimentación de los LED entran en la caja a través de unos pequeños orificios cerca de cada tira de LED.![IMG20240205124517](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/dc0d17b4-7ce8-4f86-8b25-5118c9992abc)
+
+
+Esta seria la conexion con todo el tensy,bluetooth y las matrizes de leds![IMG_20240205_123355](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/7a47a3b9-10eb-4214-a8e2-0726fabffdd4)
+
+
+
+
+
 
 
 Una vez que hayas terminado,  Es un poco difícil, sobre todo porque deben tener un ángulo de casi 45 grados. Antes de poder unir la rejilla al cubo, debes agregar las tiras de LED.
