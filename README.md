@@ -59,15 +59,14 @@ Konponbidea: Kuboa montatzekoan, alboko piezekin eta aristen alguluen neurtzen h
 
 3. Arazoa : Led tira ez dabil
 
-Deskribapena: Alguna tira de LED no se encendía inicialmente, lo que se atribuyó a un posible problema de conexión. La solución fue retirar las tiras de LED y verificar su funcionamiento utilizando un código básico fuera del circuito para asegurarse de que estuvieran adecuadamente alimentadas.
+Deskribapena: Hasiera baten LED tira ez zen piztutzen, non konexio arazoekin liteke.  La solución fue retirar las tiras de LED y verificar su funcionamiento utilizando un código básico fuera del circuito para asegurarse de que estuvieran adecuadamente alimentadas.
 
-Solución: Si una tira de LED no se ilumina, retírala y verifica su funcionamiento fuera del circuito. Asegúrate de que esté recibiendo la alimentación adecuada y corrige cualquier problema de conexión.
+Konponbidea: LED tira kendu eta kodigoaren bitartez ziurtatu ea funtzionamendua ondo dijoala, horrekin ikusi daiteke badijoazten edo ez.
 
 
+4. Arazoa: PCB-ren diseinua
 
-Problema 4: Problemas en el Diseño de la PCB
-
-Descripción: Se han experimentado varios problemas al diseñar las placas debido a la falta de planificación en la distribución de elementos y conexiones.
+Deskribapena: Hain bat arazo egon daitezke-' plakarekin ez Se han experimentado varios problemas al diseñar las placas debido a la falta de planificación en la distribución de elementos y conexiones.
 
 Solución: Antes de fabricar las placas, planifica cuidadosamente la distribución de elementos y conexiones. Asegúrate de tener un diseño claro y revisa todas las conexiones antes de la fabricación.
 
