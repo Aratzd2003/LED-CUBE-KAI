@@ -127,6 +127,7 @@ Para las tiras hace falta cortar 10 tiras de led de 40 pixeles para los lados y 
 Hay un archivo llamado LEDen banaketa en el que se puede ver mas detalladamente la distribuicion y conexion de los LEDs.
 
 A continuacion hemos colocado las fuentes de alimentacion en dos esquinas en diagonal para equilibrar el peso en el cubo, y despues de eso debemos hacer las conexiones a los leds(SIEMPRE EN PARALELO CON LAS FUENTES, si las haceis en SERIE no se iluminaran todas las LEDs con la misma intensidad). Los cables de alimentación de los LED salen de la caja a través de unos pequeños orificios cerca de cada tira de LED.![IMG20240205124517](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/dc0d17b4-7ce8-4f86-8b25-5118c9992abc)
+![20240206_104944](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/91cb4a8a-024e-4e83-8a30-1b1e1d7a28c9)
 
 
 Este seria el esquema electrico con todo, el tensy,bluetooth, fuente de alimentacion y las matrizes de leds![IMG_20240205_123355](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/7a47a3b9-10eb-4214-a8e2-0726fabffdd4)
