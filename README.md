@@ -102,7 +102,15 @@ x2 piezas de 29,6cm x 27,2cm x 1,0cm (la piezas "grandes")
 
 x1 pieza de 27,2cm x 27,2cm x 1,0cm (la pieza de "arriba")
 
-x1 pieza de 34,0cm x 34,0cm x 1,5cm (la pieza de la "base")*****************************************************************************************************************
+x1 pieza de 34,0cm x 34,0cm x 1,5cm (la pieza de la "base")
+![20240117_131805](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/975da80e-79b9-4ddc-a92e-8cd2279c1975)
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/278afd6b-e386-463a-a739-4b93bc5f915a)
+
+![20240111_123909](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/76f7f9c3-6173-40e8-aa7a-d72733c7ff0c)
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/0f9e9cf6-db2f-4f61-a3ed-9f5c8aa19648)
+![IMG20240206104117](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/23152192-f9eb-48a9-ba30-83726dce2e07)
+
 
 Las dimensiones del cubo (las exteriores, no las del cubo interior) están especificadas por la distancia del los píxeles en la tira de LEDs (10 pixeles de ancho en cada cara. En este caso los píxeles tienen una distancia de 3,4cm, por lo que el cubo tiene que medir 34 x 34 x 34cm. Ahorrarás mucho tiempo usando estas dimensiones, porque no necesitarás cortar la tira después de cada píxel y volver a unirla con un pequeño cable.
 
@@ -121,10 +129,14 @@ Hay un archivo llamado LEDen banaketa en el que se puede ver mas detalladamente 
 A continuacion hemos colocado las fuentes de alimentacion en dos esquinas en diagonal para equilibrar el peso en el cubo, y despues de eso debemos hacer las conexiones a los leds(SIEMPRE EN PARALELO CON LAS FUENTES, si las haceis en SERIE no se iluminaran todas las LEDs con la misma intensidad). Los cables de alimentación de los LED salen de la caja a través de unos pequeños orificios cerca de cada tira de LED.![IMG20240205124517](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/dc0d17b4-7ce8-4f86-8b25-5118c9992abc)
 
 
-Hau izango zan eskema elektriko tensy, bluetooth, elikatze iturri eta led matrizekin. ![IMG_20240205_123355](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/7a47a3b9-10eb-4214-a8e2-0726fabffdd4)
+Este seria el esquema electrico con todo, el tensy,bluetooth, fuente de alimentacion y las matrizes de leds![IMG_20240205_123355](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/7a47a3b9-10eb-4214-a8e2-0726fabffdd4)
 
 parte 6.
 ![Conexiones foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/726f8875-6ce2-4069-a34f-35c12b214ce1)
 ![PCB foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/729b291c-e4c7-4556-aa72-66a4fa98f4b0)
+
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/0f9e9cf6-db2f-4f61-a3ed-9f5c8aa19648)
+
 
 
