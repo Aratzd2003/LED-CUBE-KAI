@@ -66,18 +66,17 @@ Konponbidea: LED tira kendu eta kodigoaren bitartez ziurtatu ea funtzionamendua 
 
 4. Arazoa: PCB-ren diseinua
 
-Deskribapena: Hain bat arazo egon daitezke-' plakarekin ez Se han experimentado varios problemas al diseñar las placas debido a la falta de planificación en la distribución de elementos y conexiones.
+Deskribapena: Hainbat arazo egon daitezke plakako elemntuak ondo ez badira neurtzen edo haien konexioak zein espazioak kontuan hartzen.
 
-Solución: Antes de fabricar las placas, planifica cuidadosamente la distribución de elementos y conexiones. Asegúrate de tener un diseño claro y revisa todas las conexiones antes de la fabricación.
+Konponbidea: Plakak fresatu aurretik, planifikatu arretaz elementuen eta konexioen banaketa. Ziurtatu diseinu argia duzula eta berrikusi konexio guztiak fabrikazioaren aurretik.
 
 
+5. arazoa: #fastled liburutegiko kodea ulertzeko zailtasuna.
 
-Problema 5: Dificultad para Entender el Código con la Librería #fastled
+deskribapena: #fastled liburudenda erabiltzean kodea ulertzeko zailtasuna aurkitu da. Interneten laguntza bilatu eta hainbat saiakera egin ondoren, LEDekin efektu desberdinak lortu ziren.
 
-Descripción: Se ha encontrado dificultad en comprender el código al utilizar la librería #fastled. Después de buscar ayuda en internet y realizar varios intentos, se lograron diferentes efectos con los LEDs.
 
-Solución: Para comprender el código con la librería #fastled, busca ayuda en recursos en línea y realiza pruebas. En la carpeta de códigos, se han dejado pruebas y experimentos previos antes de la creación del código definitivo para referencia.
-
+Konponbidea: #fastled liburu-dendarekin kodea ulertzeko, bilatu laguntza online baliabideetan eta egin probak. Kodeen karpetan, erreferentziako behin betiko kodea sortu aurretik probak eta esperimentuak utzi dira.
 
 ¡¡¡ATENCION IMPORTANTE!!!
 Problema 5: Matriz de arriba
