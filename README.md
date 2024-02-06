@@ -45,25 +45,21 @@ Inspirazio-iturria ezagutzean eta jatorrizko sortzaileari eskerrak ematean, hare
 ARAZOAK ETA KONPONBIDEAK PROIEKTUAN
 
 
-Arazoa 1: Konexioak eta zirkuitulaburrak
+1. Arazoa: Konexioak eta zirkuitulaburrak
 
-Descripción: Antes de conectar los LEDs a la fuente de alimentación, es crucial verificar minuciosamente todas las conexiones y cables. La confusión en las conexiones puede resultar en cortocircuitos, dañando tanto los LEDs como la fuente de alimentación.
+Deskribapena: Led-ak elikatze iturrira konektatu aurretik beharrezkoa da zehatz mehatz begiratzea ea ondo dauden konexioak, bestela zierkuito laburra gerta liteke eta ondorioz led-ak hautsi daitezke.
 
-Solución: Realizar una revisión exhaustiva de las conexiones antes de aplicar la alimentación. Asegurarse de que cada conexión sea precisa y que no haya posibilidad de cortocircuitos.
+Konponbidea: Elikatze iturria ezarri aurretik berrikuspen zehatz bat egin eta konexioak guztiak ziurtatu behar dira. 
 
+2. Arazoa: Koboko anguluen neurri txarra
 
+Deskribapena: Hasiera baten aristen anguluek eta ixki ez zuten bat egiten.Se solucionó creando primero las piezas de los lados y luego calculando los ángulos de las aristas para garantizar un ajuste preciso al ensamblar el cubo.
 
-Problema 2: Desajuste en Ángulos de las Piezas del Cubo
+Konponbidea: Kuboa montatzekoan, alboko piezekin eta aristen alguluen neurtzen hasi horrela biak batzerakoan elkarketa bikaina lortuko da.  
 
-Descripción: Los ángulos de las aristas y esquinas no cuadraban inicialmente. Se solucionó creando primero las piezas de los lados y luego calculando los ángulos de las aristas para garantizar un ajuste preciso al ensamblar el cubo.
+3. Arazoa : Led tira ez dabil
 
-Solución: Al construir el cubo, inicia con las piezas de los lados y calcula los ángulos de las aristas para lograr una unión perfecta y evitar desajustes en las esquinas.
-
-
-
-Problema 3: Tira de LED No Funciona
-
-Descripción: Alguna tira de LED no se encendía inicialmente, lo que se atribuyó a un posible problema de conexión. La solución fue retirar las tiras de LED y verificar su funcionamiento utilizando un código básico fuera del circuito para asegurarse de que estuvieran adecuadamente alimentadas.
+Deskribapena: Alguna tira de LED no se encendía inicialmente, lo que se atribuyó a un posible problema de conexión. La solución fue retirar las tiras de LED y verificar su funcionamiento utilizando un código básico fuera del circuito para asegurarse de que estuvieran adecuadamente alimentadas.
 
 Solución: Si una tira de LED no se ilumina, retírala y verifica su funcionamiento fuera del circuito. Asegúrate de que esté recibiendo la alimentación adecuada y corrige cualquier problema de conexión.
 
