@@ -53,7 +53,7 @@ Arazoa 1: Konexioak eta zirkuitulaburrak
 
 Descripción: Antes de conectar los LEDs a la fuente de alimentación, es crucial verificar minuciosamente todas las conexiones y cables. La confusión en las conexiones puede resultar en cortocircuitos, dañando tanto los LEDs como la fuente de alimentación.
 
-Solución: Realiza una revisión exhaustiva de las conexiones antes de aplicar la alimentación. Asegúrate de que cada conexión sea precisa y que no haya posibilidad de cortocircuitos.
+Solución: Realizar una revisión exhaustiva de las conexiones antes de aplicar la alimentación. Asegurarse de que cada conexión sea precisa y que no haya posibilidad de cortocircuitos.
 
 
 
@@ -108,7 +108,8 @@ Las dimensiones del cubo (las exteriores, no las del cubo interior) están espec
 
 Tienes que trabajar correctamente porque la caja de acrílico encaja perfectamente en la parte superior de la caja de madera. Se vuelve mucho más fácil con algunos voluntarios a tu alrededor, o simplemente usa un tensor de marco como hicimos nosotros. Con pegamento de madera pegaremos las "ARISTAS" que hacen "LAS ESQUINAS del cubo", es bastante complicado conseguir 45 grados en el angulo de las puntas de las aristas que cmponen las celdas, asique hay que estar atento y diseñar y hacer bien cada pieza.
 
-Para hacer las aristas necesitaremos las piezas con las medidas adecuadas, en nuestro caso no hemos utilizado las mismas medidas que la del proyecto que hemos utilizado como referencia, asique dejamos un archivo adjunto con las piezas que hemos utilizado para la cortar con la maquina de laser (Maquina laser Xtool) y las medidas.***************************************
+Para hacer las aristas necesitaremos las piezas con las medidas adecuadas, en nuestro caso no hemos utilizado las mismas medidas que la del proyecto que hemos utilizado como referencia, asique dejamos un archivo adjunto con las piezas que hemos utilizado para la cortar con la cortadora laser (XTOOL D1 PRO) y las medidas de las piezas son estas de acontinuación:![IMG20240206100735](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/b32921a3-e380-4c07-98eb-e1f8b6972bab)
+
 
 Cuando toda la cola esta seca (la de las aristas del borde del cubo) y se hayan montado aparte de eso las aristas de las celdas vamos a colocar las leds en el cubo con mucho cuidado para que queden en la mitad teniendo en cuenta los cuadrados de las celdas para que quede en medio como en esta esta foto![IMG20240205120410](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/cc7cd842-7e0f-490a-b649-8122589fa1da)
 (la foto no es el resultado final hemos puesto las aristas para que se pueda ver como ejemplo)
