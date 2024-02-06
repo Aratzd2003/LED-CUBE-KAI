@@ -102,7 +102,7 @@ x2 piezas de 29,6cm x 27,2cm x 1,0cm (la piezas "grandes")
 
 x1 pieza de 27,2cm x 27,2cm x 1,0cm (la pieza de "arriba")
 
-x1 pieza de 34,0cm x 34,0cm x 1,5cm (la pieza de la "base")
+x1 pieza de 34,0cm x 34,0cm x 1,5cm (la pieza de la "base")*****************************************************************************************************************
 
 Las dimensiones del cubo (las exteriores, no las del cubo interior) están especificadas por la distancia del los píxeles en la tira de LEDs (10 pixeles de ancho en cada cara. En este caso los píxeles tienen una distancia de 3,4cm, por lo que el cubo tiene que medir 34 x 34 x 34cm. Ahorrarás mucho tiempo usando estas dimensiones, porque no necesitarás cortar la tira después de cada píxel y volver a unirla con un pequeño cable.
 
