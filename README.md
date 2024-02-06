@@ -34,10 +34,6 @@ Dimentsio pertsonalizatuak:
 Jatorrizko sortzaileak emandako neurrietan oinarritzen bagara ere, kuboaren dimentsioetan doikuntzak egin ditugu gure lehentasun estetikoetara eta eskuragarri ditugun materialetara egokitzeko; adibidez, ertzen dimentsioetan doikuntzak egin behar izan genituen.
 
 
-![20240111_124037](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/2911d6ae-e0c4-486e-bb4a-7161eaff6cef)
-
-
-
 Elementu berriak sartzea:
 Ezaugarri berriak gehitu ditugu, hala nola kuboaren barruko osagaien banaketa edo kuboaren egurrezko oinarria, orain kuboaren plakan marraztutako gure logoa ikusten uzten diguna.
 
@@ -88,6 +84,12 @@ Descripción: Se ha encontrado dificultad en comprender el código al utilizar l
 Solución: Para comprender el código con la librería #fastled, busca ayuda en recursos en línea y realiza pruebas. En la carpeta de códigos, se han dejado pruebas y experimentos previos antes de la creación del código definitivo para referencia.
 
 
+¡¡¡ATENCION IMPORTANTE!!!
+Problema 5: Matriz de arriba
+
+Descripción: Cuando terminamos de hacer todas las conexiones una vez ya teniamos la PCB empezamos a tener problemas con la matriz de leds de arriba, cuando le deciamos por ejemplo que se pusiera de color azul habeces se ponia azul y otras veces de otros colores.
+
+Solución: Despues de muchas pruebas y analizar exaustivamente todo el circuito electrico y el codigo, llegamos a la conclusion que era problema de las fuentes de alimentacion, probamos a cambiar la fuente que alimentaba los LEDs de arriba por otra que teniamos por ahi, al hacer ese cambio ya funcionaba correctamente, asi que no os recomendamos comprar las mismas fuentes de alimentacion que nosotros, buscar unas con las mismas caracteristicas (5V y 30A) y de un tamaño acorde al espacio interior del cubo.
 
 MUNTATZEKO JARRAITU BEHARREKO PAUSOAK
 
@@ -103,6 +105,7 @@ x2 piezas de 29,6cm x 27,2cm x 1,0cm (la piezas "grandes")
 x1 pieza de 27,2cm x 27,2cm x 1,0cm (la pieza de "arriba")
 
 x1 pieza de 34,0cm x 34,0cm x 1,5cm (la pieza de la "base")
+
 ![20240117_131805](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/975da80e-79b9-4ddc-a92e-8cd2279c1975)
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/278afd6b-e386-463a-a739-4b93bc5f915a)
 
