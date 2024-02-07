@@ -140,7 +140,7 @@ parte 6.
 ![PCB foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/729b291c-e4c7-4556-aa72-66a4fa98f4b0)
 
 
-![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/0f9e9cf6-db2f-4f61-a3ed-9f5c8aa19648)
+
 
 
 
