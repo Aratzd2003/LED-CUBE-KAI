@@ -79,9 +79,9 @@ deskribapena: #fastled liburudenda erabiltzean kodea ulertzeko zailtasuna aurkit
 Konponbidea: #fastled liburu-dendarekin kodea ulertzeko, bilatu laguntza online baliabideetan eta egin probak. Kodeen karpetan, erreferentziako behin betiko kodea sortu aurretik probak eta esperimentuak utzi dira.
 
 ¡¡¡ATENCION IMPORTANTE!!!
-Problema 5: Matriz de arriba
+5. arazoa: Goiko metriza
 
-Descripción: Cuando terminamos de hacer todas las conexiones una vez ya teniamos la PCB empezamos a tener problemas con la matriz de leds de arriba, cuando le deciamos por ejemplo que se pusiera de color azul habeces se ponia azul y otras veces de otros colores.
+Deskribapena: Cuando terminamos de hacer todas las conexiones una vez ya teniamos la PCB empezamos a tener problemas con la matriz de leds de arriba, cuando le deciamos por ejemplo que se pusiera de color azul habeces se ponia azul y otras veces de otros colores.
 
 Solución: Despues de muchas pruebas y analizar exaustivamente todo el circuito electrico y el codigo, llegamos a la conclusion que era problema de las fuentes de alimentacion, probamos a cambiar la fuente que alimentaba los LEDs de arriba por otra que teniamos por ahi, al hacer ese cambio ya funcionaba correctamente, asi que no os recomendamos comprar las mismas fuentes de alimentacion que nosotros, buscar unas con las mismas caracteristicas (5V y 30A) y de un tamaño acorde al espacio interior del cubo.
 
