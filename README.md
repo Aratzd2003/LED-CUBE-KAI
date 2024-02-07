@@ -125,11 +125,15 @@ Buztan osoa lehor dagoenean (kuboaren ertzeko ertzetakoa) eta gelaxken ertzak ap
 ![IMG20240205120410](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/cc7cd842-7e0f-490a-b649-8122589fa1da)
 (argazkia ez da azken emaitza, ertzak jarri ditugu adibide gisa ikus dadin.)
 
-Para las tiras hace falta cortar 10 tiras de led de 40 pixeles para los lados y es importante tener cuidado con la colocacion de ellas ya que todas las flechas de las leds tienen que estar en el mismo sentido como en esta foto![IMG20240205121105](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/df096929-9a6f-4e73-abc8-791f336a49b8)
 
-Hay un archivo llamado LEDen banaketa en el que se puede ver mas detalladamente la distribuicion y conexion de los LEDs.
+LED tirak egiteko, alboetarako 40 pixeleko 10 LED zerrenda moztu behar dira, eta kontu handiz ibili behar da horiek jartzerakoan; izan ere, ledetako gezi guztiek zentzu berean egon behar dute argazki honetan bezala.
+![IMG20240205121105](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/df096929-9a6f-4e73-abc8-791f336a49b8)
 
-A continuacion hemos colocado las fuentes de alimentacion en dos esquinas en diagonal para equilibrar el peso en el cubo, y despues de eso debemos hacer las conexiones a los leds(SIEMPRE EN PARALELO CON LAS FUENTES, si las haceis en SERIE no se iluminaran todas las LEDs con la misma intensidad). Los cables de alimentación de los LED salen de la caja a través de unos pequeños orificios cerca de cada tira de LED.![IMG20240205124517](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/dc0d17b4-7ce8-4f86-8b25-5118c9992abc)
+Badago fitxategi bat "LEDen banaketa" bertan ikusdezakezutela LEDen banaketa eta konexioa zehatzago ikus daiteke.
+
+
+Jarraian, elikadura-iturriak diagonaleko bi ixkinatan jarri ditugu, kuboko pisua orekatzeko, ondoren led-ekiko konexioak egin beharko dira. (BETI ITURRIEKIKO PARALELOAN, SERIEAN egiten badituzue LED guztiak intentsitate berarekin argiztatuko ez balira). LEDen elikadura-kableak kutxatik ateratzen dira LED zerrenda bakoitzetik gertu dauden zulo txiki batzuen bidez.
+![IMG20240205124517](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/dc0d17b4-7ce8-4f86-8b25-5118c9992abc)
 ![20240206_104944](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/91cb4a8a-024e-4e83-8a30-1b1e1d7a28c9)
 
 
