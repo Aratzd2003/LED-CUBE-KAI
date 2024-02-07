@@ -78,27 +78,28 @@ deskribapena: #fastled liburudenda erabiltzean kodea ulertzeko zailtasuna aurkit
 
 Konponbidea: #fastled liburu-dendarekin kodea ulertzeko, bilatu laguntza online baliabideetan eta egin probak. Kodeen karpetan, erreferentziako behin betiko kodea sortu aurretik probak eta esperimentuak utzi dira.
 
-¡¡¡ATENCION IMPORTANTE!!!
+¡¡¡GARRANTZITSUA!!!
 5. arazoa: Goiko metriza
 
-Deskribapena: Cuando terminamos de hacer todas las conexiones una vez ya teniamos la PCB empezamos a tener problemas con la matriz de leds de arriba, cuando le deciamos por ejemplo que se pusiera de color azul habeces se ponia azul y otras veces de otros colores.
+Deskribapena: Konexio guztiak amaituzean eta PCB edukita, arazoak izaten hasi ginen goiko led-en matrizearekin, esaterako kolore urdinez jartzea eskatzen genionean beste kolore batzuetako ezartzen zen.
 
-Solución: Despues de muchas pruebas y analizar exaustivamente todo el circuito electrico y el codigo, llegamos a la conclusion que era problema de las fuentes de alimentacion, probamos a cambiar la fuente que alimentaba los LEDs de arriba por otra que teniamos por ahi, al hacer ese cambio ya funcionaba correctamente, asi que no os recomendamos comprar las mismas fuentes de alimentacion que nosotros, buscar unas con las mismas caracteristicas (5V y 30A) y de un tamaño acorde al espacio interior del cubo.
+Konponbidea: Proba asko egin eta zirkuitu elektriko guztia eta kodea modu exaustiboan aztertu ondoren, elikadura-iturrien arazoa zela ondorioztatu genuen, eta LEDak elikatzen zituen iturria aldatu eta beste bat jarri genuen. Aldaketa hori egitean, ondo funtzionatzen zuen. Beraz, ez dizuegu gomendatzen guk erosten ditugun elikadura-iturri berberak erostea, ezaugarri berberak dituzten iturri batzuk bilatzea (5V eta 30A) eta kuboaren barruko espazioarekin bat datorren tamaina dutenak.
+
 
 MUNTATZEKO JARRAITU BEHARREKO PAUSOAK
 
 Ezer baino lehen, proiektua egiteko materialak beharko ditugu. "Materialen zerrenda" izeneko karpetan erantsi dizkizuegu. Material batzuen zehaztapen zehatzak, berriz, argazkiak emango dizkizuegu montagean (adibidez, ertzak).
 
-En primer lugar vamos a construir la caja de madera y la rejilla de los LEDs. La caja de madera esta compuesta por 5 piezas de madera (aparte de la base, que es la pieza mas grande)
+Lehendabizi kaxa eta xaflak montatuko ditugu. Kaxa egurrezko bost piezataz osatuta dago (basea gehituta, pieza handiena dela). 
 
-Piezas de los lados:
-x2 piezas de 25,2cm x 29,6cm x 1,0cm (la piezas "pequeñas")
+Alboko aldeak:
+x2 pieza 25,2cm x 29,6cm x 1,0cm (pieza "txikiak")
 
-x2 piezas de 29,6cm x 27,2cm x 1,0cm (la piezas "grandes")
+x2 pieza 29,6cm x 27,2cm x 1,0cm (pieza "handiak")
 
-x1 pieza de 27,2cm x 27,2cm x 1,0cm (la pieza de "arriba")
+x1 pieza 27,2cm x 27,2cm x 1,0cm ("goiko" pieza)
 
-x1 pieza de 34,0cm x 34,0cm x 1,5cm (la pieza de la "base")
+x1 pieza  34,0cm x 34,0cm x 1,5cm ("baseko" pieza)
 
 ![20240117_131805](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/975da80e-79b9-4ddc-a92e-8cd2279c1975)
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/278afd6b-e386-463a-a739-4b93bc5f915a)
@@ -109,7 +110,8 @@ x1 pieza de 34,0cm x 34,0cm x 1,5cm (la pieza de la "base")
 ![IMG20240206104117](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/23152192-f9eb-48a9-ba30-83726dce2e07)
 
 
-Las dimensiones del cubo (las exteriores, no las del cubo interior) están especificadas por la distancia del los píxeles en la tira de LEDs (10 pixeles de ancho en cada cara. En este caso los píxeles tienen una distancia de 3,4cm, por lo que el cubo tiene que medir 34 x 34 x 34cm. Ahorrarás mucho tiempo usando estas dimensiones, porque no necesitarás cortar la tira después de cada píxel y volver a unirla con un pequeño cable.
+Kuboaren neurriak (kanpokoak, ez barruko kuboarenak) pixelek LEDen zerrendan duten distantziaren arabera zehazten dira (10 pixel zabal alde bakoitzean. Kasu honetan pixelek 3,4cm-ko distantzia dute, beraz, kuboak 34 x 34 x 34cm neurtu behar ditu. Denbora asko aurreztuko duzu dimentsio horiek erabiliz, ez baituzu pixel bakoitzaren ondoren zerrenda moztu eta kable txiki batekin berriro lotu beharko.
+
 
 Tienes que trabajar correctamente porque la caja de acrílico encaja perfectamente en la parte superior de la caja de madera. Se vuelve mucho más fácil con algunos voluntarios a tu alrededor, o simplemente usa un tensor de marco como hicimos nosotros. Con pegamento de madera pegaremos las "ARISTAS" que hacen "LAS ESQUINAS del cubo", es bastante complicado conseguir 45 grados en el angulo de las puntas de las aristas que cmponen las celdas, asique hay que estar atento y diseñar y hacer bien cada pieza.
 
