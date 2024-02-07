@@ -137,7 +137,7 @@ Jarraian, elikadura-iturriak diagonaleko bi ixkinatan jarri ditugu, kuboko pisua
 ![20240206_104944](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/91cb4a8a-024e-4e83-8a30-1b1e1d7a28c9)
 
 
-Este seria el esquema electrico con todo, el tensy,bluetooth, fuente de alimentacion y las matrizes de leds![IMG_20240205_123355](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/7a47a3b9-10eb-4214-a8e2-0726fabffdd4)
+Hau izango zan eskema eltrikoa tensy, bluetooth, elikatze iturri eta led matrizak konektatuta.![IMG_20240205_123355](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/7a47a3b9-10eb-4214-a8e2-0726fabffdd4)
 
 parte 6.
 ![Conexiones foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/726f8875-6ce2-4069-a34f-35c12b214ce1)
