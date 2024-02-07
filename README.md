@@ -121,8 +121,9 @@ Ertzak egiteko, piezak neurri egokiekin beharko ditugu. Gure kasuan, ez ditugu e
 :![IMG20240206100735](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/b32921a3-e380-4c07-98eb-e1f8b6972bab)
 
 
-Cuando toda la cola esta seca (la de las aristas del borde del cubo) y se hayan montado aparte de eso las aristas de las celdas vamos a colocar las leds en el cubo con mucho cuidado para que queden en la mitad teniendo en cuenta los cuadrados de las celdas para que quede en medio como en esta esta foto![IMG20240205120410](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/cc7cd842-7e0f-490a-b649-8122589fa1da)
-(la foto no es el resultado final hemos puesto las aristas para que se pueda ver como ejemplo)
+Buztan osoa lehor dagoenean (kuboaren ertzeko ertzetakoa) eta gelaxken ertzak aparte muntatu direnean, led-ak kuboan jarriko ditugu kontu handiz, erdian gera daitezen, gelaxken karratuak kontuan hartuta, argazki honetan bezala erdian gera dadin.
+![IMG20240205120410](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/cc7cd842-7e0f-490a-b649-8122589fa1da)
+(argazkia ez da azken emaitza, ertzak jarri ditugu adibide gisa ikus dadin.)
 
 Para las tiras hace falta cortar 10 tiras de led de 40 pixeles para los lados y es importante tener cuidado con la colocacion de ellas ya que todas las flechas de las leds tienen que estar en el mismo sentido como en esta foto![IMG20240205121105](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/df096929-9a6f-4e73-abc8-791f336a49b8)
 
