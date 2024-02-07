@@ -110,12 +110,15 @@ x1 pieza  34,0cm x 34,0cm x 1,5cm ("baseko" pieza)
 ![IMG20240206104117](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/23152192-f9eb-48a9-ba30-83726dce2e07)
 
 
-Kuboaren neurriak (kanpokoak, ez barruko kuboarenak) pixelek LEDen zerrendan duten distantziaren arabera zehazten dira (10 pixel zabal alde bakoitzean. Kasu honetan pixelek 3,4cm-ko distantzia dute, beraz, kuboak 34 x 34 x 34cm neurtu behar ditu. Denbora asko aurreztuko duzu dimentsio horiek erabiliz, ez baituzu pixel bakoitzaren ondoren zerrenda moztu eta kable txiki batekin berriro lotu beharko.
+Kuboaren neurriak (kanpokoak, ez barruko kuboarenak) pixelek LEDen zerrendan duten distantziaren arabera zehazten dira (10 pixel zabal alde bakoitzean). Kasu honetan pixelek 3,4cm-ko distantzia dute, beraz, kuboak 34 x 34 x 34cm neurtu behar ditu. Denbora asko aurreztuko duzu dimentsio horiek erabiliz, ez baituzu pixel bakoitzaren ondoren zerrenda moztu eta kable txiki batekin berriro lotu beharko.
 
 
-Tienes que trabajar correctamente porque la caja de acrílico encaja perfectamente en la parte superior de la caja de madera. Se vuelve mucho más fácil con algunos voluntarios a tu alrededor, o simplemente usa un tensor de marco como hicimos nosotros. Con pegamento de madera pegaremos las "ARISTAS" que hacen "LAS ESQUINAS del cubo", es bastante complicado conseguir 45 grados en el angulo de las puntas de las aristas que cmponen las celdas, asique hay que estar atento y diseñar y hacer bien cada pieza.
+Behar bezala lan egin behar duzu, akriliko-kaxa ezin hobeto egokitzen baita egurrezko kaxaren goialdean. Askoz errazagoa bihurtzen da boluntario batzuekin zure inguruan, edo, besterik gabe, erabili marko tenkagailu bat guk egin genuen bezala. Zurezko itsasgarriarekin "KUBOAREN IZKINAK" egiten dituzten "ERTZAK" itsatsiko ditugu. Nahiko zaila da 45 gradu lortzea gelaxkak zedarritzen dituzten ertz-punten angeluan. Horrela, adi egon eta pieza bakoitza ondo diseinatu eta egin behar da.
 
-Para hacer las aristas necesitaremos las piezas con las medidas adecuadas, en nuestro caso no hemos utilizado las mismas medidas que la del proyecto que hemos utilizado como referencia, asique dejamos un archivo adjunto con las piezas que hemos utilizado para la cortar con la cortadora laser (XTOOL D1 PRO) y las medidas de las piezas son estas de acontinuación:![IMG20240206100735](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/b32921a3-e380-4c07-98eb-e1f8b6972bab)
+
+
+Ertzak egiteko, piezak neurri egokiekin beharko ditugu. Gure kasuan, ez ditugu erreferentzia gisa erabili dugun proiektuko neurri berak erabili. Horretarako, fitxategi bat utziko dugu erantsita, laser ebakigailuarekin (XTOOL D1 PRO) ebakitzeko erabili ditugun piezekin. Piezen neurriak honako hauek dira
+:![IMG20240206100735](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/b32921a3-e380-4c07-98eb-e1f8b6972bab)
 
 
 Cuando toda la cola esta seca (la de las aristas del borde del cubo) y se hayan montado aparte de eso las aristas de las celdas vamos a colocar las leds en el cubo con mucho cuidado para que queden en la mitad teniendo en cuenta los cuadrados de las celdas para que quede en medio como en esta esta foto![IMG20240205120410](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/cc7cd842-7e0f-490a-b649-8122589fa1da)
