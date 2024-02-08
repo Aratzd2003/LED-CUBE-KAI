@@ -51,11 +51,13 @@ Deskribapena: Led-ak elikatze iturrira konektatu aurretik beharrezkoa da zehatz 
 
 Konponbidea: Elikatze iturria ezarri aurretik berrikuspen zehatz bat egin eta konexioak guztiak ziurtatu behar dira. 
 
+
 2. Arazoa: Koboko anguluen neurri txarra
 
 Deskribapena: Hasiera baten aristen anguluek eta ixki ez zuten bat egiten.Se solucionó creando primero las piezas de los lados y luego calculando los ángulos de las aristas para garantizar un ajuste preciso al ensamblar el cubo.
 
 Konponbidea: Kuboa montatzekoan, alboko piezekin eta aristen alguluen neurtzen hasi horrela biak batzerakoan elkarketa bikaina lortuko da.  
+
 
 3. Arazoa : Led tira ez dabil
 
@@ -71,15 +73,15 @@ Deskribapena: Hainbat arazo egon daitezke plakako elemntuak ondo ez badira neurt
 Konponbidea: Plakak fresatu aurretik, planifikatu arretaz elementuen eta konexioen banaketa. Ziurtatu diseinu argia duzula eta berrikusi konexio guztiak fabrikazioaren aurretik.
 
 
-5. arazoa: #fastled liburutegiko kodea ulertzeko zailtasuna.
+5. Arazoa: #fastled liburutegiko kodea ulertzeko zailtasuna.
 
-deskribapena: #fastled liburudenda erabiltzean kodea ulertzeko zailtasuna aurkitu da. Interneten laguntza bilatu eta hainbat saiakera egin ondoren, LEDekin efektu desberdinak lortu ziren.
-
+Deskribapena: #fastled liburudenda erabiltzean kodea ulertzeko zailtasuna aurkitu da. Interneten laguntza bilatu eta hainbat saiakera egin ondoren, LEDekin efektu desberdinak lortu ziren.
 
 Konponbidea: #fastled liburu-dendarekin kodea ulertzeko, bilatu laguntza online baliabideetan eta egin probak. Kodeen karpetan, erreferentziako behin betiko kodea sortu aurretik probak eta esperimentuak utzi dira.
 
+
 ¡¡¡GARRANTZITSUA!!!
-5. arazoa: Goiko metriza
+5. Arazoa: Goiko metriza
 
 Deskribapena: Konexio guztiak amaituzean eta PCB edukita, arazoak izaten hasi ginen goiko led-en matrizearekin, esaterako kolore urdinez jartzea eskatzen genionean beste kolore batzuetako ezartzen zen.
 
@@ -141,13 +143,10 @@ Hau izango zan eskema eltrikoa tensy, bluetooth, elikatze iturri eta led matriza
 Eta azkenik kaxaren beheko zatia zulo bat erdian dauka plaka torlojututa dago eta zeozer egin nahi baduzu plakan  elementu guztiak dituzu aldatzeko edo zeozer nahi baduzu egin,aldiz, plaka lurra  ez ikutzeko almoadillaren antzeko bat jarri diogu, eta lurra ez raiatzeko.
 ![20240207_104935 (1)](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/dce2fd37-60ec-4fcd-a128-2469f6bc61c8)
 ![20240207_105023](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/2e086067-52fd-49a5-a1c7-436a8e2c9f7b)
-
-
-
-*SOFTWARE*
-parte 6.
 ![Conexiones foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/726f8875-6ce2-4069-a34f-35c12b214ce1)
 ![PCB foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/729b291c-e4c7-4556-aa72-66a4fa98f4b0)
+
+*SOFTWARE*
 
 
 
