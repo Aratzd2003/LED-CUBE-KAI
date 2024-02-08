@@ -138,7 +138,12 @@ Jarraian, elikadura-iturriak diagonaleko bi ixkinatan jarri ditugu, kuboko pisua
 
 
 Hau izango zan eskema eltrikoa tensy, bluetooth, elikatze iturri eta led matrizak konektatuta.![IMG_20240205_123355](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/7a47a3b9-10eb-4214-a8e2-0726fabffdd4)
-Eta azkenik kaxaren beheko zatia zulo bat erdian dauka plaka torlojututa dago eta zeozer egin nahi baduzu plakan dituzu elementu guztiak aldtatzeko edo zeozer nahi baduzu egin,aldiz, plaka ez ikutzeko lurra t
+Eta azkenik kaxaren beheko zatia zulo bat erdian dauka plaka torlojututa dago eta zeozer egin nahi baduzu plakan  elementu guztiak dituzu aldatzeko edo zeozer nahi baduzu egin,aldiz, plaka lurra  ez ikutzeko almoadillaren antzeko bat jarri diogu, eta lurra ez raiatzeko.
+![20240207_104935 (1)](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/dce2fd37-60ec-4fcd-a128-2469f6bc61c8)
+![20240207_105023](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/2e086067-52fd-49a5-a1c7-436a8e2c9f7b)
+
+
+
 *SOFTWARE*
 parte 6.
 ![Conexiones foto](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/158164861/726f8875-6ce2-4069-a34f-35c12b214ce1)
