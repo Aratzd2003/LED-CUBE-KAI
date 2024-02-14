@@ -179,12 +179,41 @@ Kodean jarriko dugun lehenengo gauza erabiliko ditugun liburu-dendak dira, FastL
 
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/927a48b4-e911-4b0c-8439-9222ccae5a5f)
 
+Behin hori eginda, kodean ikus dezakegun hurrengo gauza pin-esleipena da (bluetooth eta led-en kontrola), eta, ondoren, adibidez, led-en matrizeen tamaina definitzeko erabiltzen ditugun aldagaiak ditugu, guztia banatu ditugun moduaren araberakoa da, gure kasuan 10x40ko matrizea eta 10x10eko matrizea dira, gainerakoak FastLED liburudendak CRGB led1 gisa funtzionatzeko jarri behar diren aldagaiak dira [LED_COUNT1], 1. matrizeari led-kantitatea esleitzea bezala dena, eta gainerakoak aldagaiak dira, bakoitzak bere atalean behar dituen balioekin; adibidez, snakeLength aldagaia Snake jokoaren sugearen pixelen tamaina da.
 
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/50efa29c-3471-4ed4-ab00-6d994859c0ed)
 
+Jarraian, void setupa eta loop-a ditugu, setupean led-en zerrenda/matrize bakoitzaren adierazpena, serialaren (monitore seriala) eta sw-aren (bluetooth seriala) abiadurak ezarriko ditugu eta kuboa hasiko dugu led-ak itzaliz.
+Gero, loopean dugun gauza bakarra baldintza bat da, bluetooth bidez zerbait jasotzen badugu, balio hori monitore serialean idatziko dugu (funtzio hau bluetooth bidez balio zuzenak iristen zaizkigula egiaztatzeko da batez ere) eta gordetako bluetoothak jasotako balioa luzatuko duen void executeBluetoothCommand exekutatuko dugu.
 
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/000260b9-fde2-4e4d-89ae-b1ef50238b32)
 
+Zuei azaltzeko, lehenik void batzuk saltatuko ditugu, eta lehenik garrantzitsuenera joango gara, eta dena kontrolatzen duenera, executeBluetoothCommand, bluetooth delakoagatik zerbait jaso ondoren, jasotako balioa duen "case" a bakarrik sartu eta exekutatuko dugu. Lehenengo case horiek kolore zehatzetako LED guztiak pizten dituzte, sinpleagoak direnak, fill_solid (zerrenda hautatua, leds kantitatea, eta zer koloretakoa pizten ditugun), FastLED.show da zerrendetan erakustea zer aldaketa egin dugun led-etan, gauzak jarri arren led-ek ezer egiten ez badute.
 
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/abc5aff3-b0a4-4329-b673-809a886053f1)
 
+Gero, beste funtzio bat dugu: argi zuria ekortzea led zerrenda osoan, 0 LEDetik 400 LEDera, eta 400 LEDera iristean, beste 100ak pizten ditu aldi berean, eta gero itzaltzen da, ordena okerragoan.
 
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/57a34b04-4331-42fc-8e5b-ef24a55ba3ac)
 
+Ondoren, hurrengo case-ak ekorketa bertikalak dira, bakoitza kolore zehatz batekoa.
 
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/5c9d1f69-a1a6-4d94-9e4b-5ac3ec082f88)
+
+Eta, azkenean, hiru case ditugu, beren void propioa dutenak, void bakoitzaren azalpenaren argazkietan ikusten diren kode-lerroetan aurki ditzakegu.
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/80243e93-02c3-43fc-8471-842d77ab35dd)
+
+DrawCreeperHeaden, 1. matrizearen barruan, aukeratutako koloretik piztuko ditugun led-ak (berdea, kasu honetan) zero batzuekin esleituko ditugu, batzuk piztuko dira, eta banaketa horren emaitza creeper baten aurpegia da, mundu osoan Minecraft izeneko jolas ospetsuko izaki bat.
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/50def1bd-a1c6-45d3-9789-38316bd8c8e8)
+
+Void honetan koloretako begizta bat egiten dugu, kolorearen eta kolorearen artean transizion bat dago, non egungo kolorea apurka-apurka itzaltzen den eta behin itzaliz gero hurrengo koloretik pixkanaka pizten den, void hau eta snake kolorearena azaltzen zailagoak dira, baldin eta ez bazaizue nahikoa egiten case bakoitzean egiten ari garen azalpenari buruz zenbait iruzkin egiten dituzue Españolezko kode gehienetan, zati bakoitzean egiten ari dela azalduz.
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/61af390c-dd2c-4cc5-9b79-500e05446a84)
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/f8fda86b-ee65-416d-8097-2fa3ef453a0d)
+
+Void Snake kodearen zatirik luzeena da, logika asko dituelako jolasa delako, eta, beraz, hitz egiten ari naizenaren irudiak ikusi nahi badituzue, ikus dezakezue LEDCUBE_0.7v kodearen amaieran. Hasteko, sugearen eta sagarraren hasierako posizioak esleitzen ditugu, gero sugea mugitzen hasteko zentzuari ekiten diogu, behean (kodean gorantz jartzen du, baina hori da led-en distrubuizionaren logikagatik kodearentzat matrizea errebesean dagoela, horregatik lehen creeperraren aurpegia errebesean jartzen dugu, gero kuboan ondo kokatuta ikusteko, baizik eta rebesean ikusten da), gero sugearen mugimendu-logika eta kolisioaren egiaztapena ditugulako.
+
+Hori izan da kuboan erabili dugun azken kodeari buruzko azalpena, baina kodeen karpetan LEDekin eta FastLED liburu-dendarekin funtzionamendu- eta logika-probak egiteko erabili ditugun beste kadigo batzuk dituzue.
