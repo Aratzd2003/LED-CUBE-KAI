@@ -171,6 +171,20 @@ Bideo bat duzue appinventor nola funtzionatzen duen azaltzeko, APPINVENTOR/Bideo
 
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/472faba7-3a28-4a97-8980-f5d1cb1e15d3)
 
+Jarraian, zatika azalduko dut Teensy-ren kode definitzailea, Arduinoren idazkeran dagoena (LEDCUBE_0.7v).
+
+Kodean jarriko dugun lehenengo gauza erabiliko ditugun liburu-dendak dira, FastLED liburu-denda liburutegien kudeatzailearengana joan eta "FastLED NeoPixel" deritzona deskargatu behar duzue.
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/7318293d-0b1a-4b01-a2ac-3ad656369ea0)
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/927a48b4-e911-4b0c-8439-9222ccae5a5f)
+
+
+
+
+
+
+
 
 
 
