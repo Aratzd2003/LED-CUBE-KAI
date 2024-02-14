@@ -92,6 +92,12 @@ MUNTATZEKO JARRAITU BEHARREKO PAUSOAK
 
 Ezer baino lehen, proiektua egiteko materialak beharko ditugu. "Materialen zerrenda" izeneko karpetan erantsi dizkizuegu. Material batzuen zehaztapen zehatzak, berriz, argazkiak emango dizkizuegu montagean (adibidez, ertzak).
 
+Ez ditugu zehaztu acrylic glass-en neurriak, uste dugulako hobe duzuela dena muntatzen amaitu ondoren lortzen dituzuen neurrietara egokitzea, baina jakin nahi izanez gero, honako hauek dira:
+
+- 36.6 cm/34.8 cm x2
+- 36.6 cm/35.8 cm x2
+- 34.8 cm/34.8 cm
+
 Lehendabizi kaxa eta xaflak montatuko ditugu. Kaxa egurrezko bost piezataz osatuta dago (basea gehituta, pieza handiena dela). 
 
 Alboko aldeak:
@@ -157,7 +163,13 @@ Eta azkenik, kaxaren oinarriko taulak zulo bat du erdian, plaka torlojututa dago
 
 *SOFTWARE*
 
+Softwarearen atalean appinventor bat dugu hasteko. Web-orri horretan, mugikorrerako zeure aplikazioa sor dezakezu, "APPINVENTOR" karpetaren barruan APK fitxategia daukazue, gure aplikazioa nahi baduzue ere, eta zuen kodeari egokitu nahi badiozue, AIA fitxategia pasako dizuegu, AIA fitxategia irekitzeko, beheko irudian erakusten den atalean fitxategia appinventor (google) barruan igo behar duzue.
 
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/39a59574-60a8-4972-92ac-34f7bfbac2db)
+
+Bideo bat duzue appinventor nola funtzionatzen duen azaltzeko, APPINVENTOR/Bideoak karpetaren barruan dago. Gure kasuan, beheko irudian ikus dezakezuenez, bluetooth-erako beharrezkoak diren blokeak ditugu gure kasuan, eta gainerako guztiak botoia sakatuz bidaliko ditugun letrak dira. Zehazki, letra horiek bidaliko ditugu, Teensy (arduino) kodean zenbait ekintza egiteko baldintza jarri dugulako, hala nola koloretako ekorketak egiteko edo kolore bateko kuboa pizteko.
+
+![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/472faba7-3a28-4a97-8980-f5d1cb1e15d3)
 
 
 
