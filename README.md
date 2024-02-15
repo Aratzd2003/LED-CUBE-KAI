@@ -75,9 +75,9 @@ Konponbidea: Plakak fresatu aurretik, planifikatu arretaz elementuen eta konexio
 
 5. Arazoa: #fastled liburutegiko kodea ulertzeko zailtasuna.
 
-Deskribapena: #fastled liburudenda erabiltzean kodea ulertzeko zailtasuna aurkitu da. Interneten laguntza bilatu eta hainbat saiakera egin ondoren, LEDekin efektu desberdinak lortu ziren.
+Deskribapena: #fastled liburutegia erabiltzean kodea ulertzeko zailtasuna aurkitu da. Interneten laguntza bilatu eta hainbat saiakera egin ondoren, LEDekin efektu desberdinak lortu ziren.
 
-Konponbidea: #fastled liburu-dendarekin kodea ulertzeko, bilatu laguntza online baliabideetan eta egin probak. Kodeen karpetan, erreferentziako behin betiko kodea sortu aurretik probak eta esperimentuak utzi dira.
+Konponbidea: #fastled liburutegiarekin kodea ulertzeko, bilatu laguntza online baliabideetan eta egin probak. Kodeen karpetan, erreferentziako behin betiko kodea sortu aurretik probak eta esperimentuak utzi dira.
 
 
 ¡¡¡GARRANTZITSUA!!!
@@ -173,13 +173,13 @@ Bideo bat duzue appinventor nola funtzionatzen duen azaltzeko, APPINVENTOR/Bideo
 
 Jarraian, zatika azalduko dut Teensy-ren kode definitzailea, Arduinoren idazkeran dagoena (LEDCUBE_0.7v).
 
-Kodean jarriko dugun lehenengo gauza erabiliko ditugun liburu-dendak dira, FastLED liburu-denda liburutegien kudeatzailearengana joan eta "FastLED NeoPixel" deritzona deskargatu behar duzue.
+Kodean jarriko dugun lehenengo gauza erabiliko ditugun liburutegiak dira, FastLED liburutegia liburutegien kudeatzailearengana joan eta "FastLED NeoPixel" deritzona deskargatu behar duzue.
 
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/7318293d-0b1a-4b01-a2ac-3ad656369ea0)
 
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/927a48b4-e911-4b0c-8439-9222ccae5a5f)
 
-Behin hori eginda, kodean ikus dezakegun hurrengo gauza pin-esleipena da (bluetooth eta led-en kontrola), eta, ondoren, adibidez, led-en matrizeen tamaina definitzeko erabiltzen ditugun aldagaiak ditugu, guztia banatu ditugun moduaren araberakoa da, gure kasuan 10x40ko matrizea eta 10x10eko matrizea dira, gainerakoak FastLED liburudendak CRGB led1 gisa funtzionatzeko jarri behar diren aldagaiak dira [LED_COUNT1], 1. matrizeari led-kantitatea esleitzea bezala dena, eta gainerakoak aldagaiak dira, bakoitzak bere atalean behar dituen balioekin; adibidez, snakeLength aldagaia Snake jokoaren sugearen pixelen tamaina da.
+Behin hori eginda, kodean ikus dezakegun hurrengo gauza pin-esleipena da (bluetooth eta led-en kontrola), eta, ondoren, adibidez, led-en matrizeen tamaina definitzeko erabiltzen ditugun aldagaiak ditugu, guztia banatu ditugun moduaren araberakoa da, gure kasuan 10x40ko matrizea eta 10x10eko matrizea dira, gainerakoak FastLED liburutegia CRGB led1 gisa funtzionatzeko jarri behar diren aldagaiak dira [LED_COUNT1], 1. matrizeari led-kantitatea esleitzea bezala dena, eta gainerakoak aldagaiak dira, bakoitzak bere atalean behar dituen balioekin; adibidez, snakeLength aldagaia Snake jokoaren sugearen pixelen tamaina da.
 
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/50efa29c-3471-4ed4-ab00-6d994859c0ed)
 
