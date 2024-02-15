@@ -167,7 +167,7 @@ Softwarearen atalean appinventor bat dugu hasteko. Web-orri horretan, mugikorrer
 
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/39a59574-60a8-4972-92ac-34f7bfbac2db)
 
-Bideo bat duzue appinventor nola funtzionatzen duen azaltzeko, APPINVENTOR/Bideoak karpetaren barruan dago. Gure kasuan, beheko irudian ikus dezakezuenez, bluetooth-erako beharrezkoak diren blokeak ditugu gure kasuan, eta gainerako guztiak botoia sakatuz bidaliko ditugun letrak dira. Zehazki, letra horiek bidaliko ditugu, Teensy (arduino) kodean zenbait ekintza egiteko baldintza jarri dugulako, hala nola koloretako ekorketak egiteko edo kolore bateko kuboa pizteko.
+Bideo bat duzue appinventor nola funtzionatzen duen azaltzeko, APPINVENTOR/Bideoak karpetaren barruan dago. Gure kasuan, beheko irudian ikus dezakezuenez, bluetooth-erako beharrezkoak diren blokeak ditugu , gainerako guztiak botoia sakatuz bidaliko ditugun letrak dira. Zehazki, letra horiek bidaliko ditugu, Teensy (arduino) kodean zenbait ekintza egiteko baldintza jarri dugulako, hala nola koloretako ekorketak egiteko edo kolore bateko kuboa pizteko.
 
 ![image](https://github.com/Aratzd2003/LED-CUBE-KAI/assets/156079021/472faba7-3a28-4a97-8980-f5d1cb1e15d3)
 
