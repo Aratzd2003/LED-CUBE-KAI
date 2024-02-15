@@ -52,7 +52,7 @@ Deskribapena: Led-ak elikatze iturrira konektatu aurretik beharrezkoa da zehatz 
 Konponbidea: Elikatze iturria ezarri aurretik berrikuspen zehatz bat egin eta konexioak guztiak ziurtatu behar dira. 
 
 
-2. Arazoa: Koboko anguluen neurri txarra
+2. Arazoa: Kuboko anguluen neurri txarra
 
 Deskribapena: Hasiera baten aristen anguluek eta ixki ez zuten bat egiten.
 
